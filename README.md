@@ -5,6 +5,7 @@ A full stack web development project built using **ReactJS**, **NestJS**, **Mong
 To start running up the project, open the terminal and type the following command then hit enter:
 ```
  npm install
+ npm run start
 ```
 
 **Note:** For email sending services, I have used **Mailgun**, refer to [here](https://www.mailgun.com/). You need to create a free acoount inorder to get your API key
