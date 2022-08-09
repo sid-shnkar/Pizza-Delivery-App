@@ -1,5 +1,5 @@
 # Pizza-Delivery-App
-A full stack web development project built using **ReactJS**, **NestJS**, **MongoDB** and **Express**. It simulates a food delivery app for a pizza delivery company.
+A full stack web development project built using **ReactJS**, **NestJS**, **MongoDB** and **Express**. It simulates a food delivery app for a pizza delivery company. It allows users to log in/sign up on the web app, view all the available menu items, perform CRUD operations on their cart, and place an order. After placing an order, the user receives a confirmation email containing details about their order, like quantity, item name, price, etc., on their email address. The admin can manage all the users and pizzas by performing CRUD operations on them.
 
 ## Steps to run the program:
 To start running up the project, open the terminal and type the following command then hit enter:
