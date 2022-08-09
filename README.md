@@ -7,5 +7,5 @@ To start running up the project, open the terminal and type the following comman
  npm install
 ```
 
-Note: For email sending services, I have used **Mailgun**, refer to [here](https://www.mailgun.com/). You need to create a free acoount inorder to get your API key
-and SMTP credentials, that are required by this feature to be working.
+**Note:** For email sending services, I have used **Mailgun**, refer to [here](https://www.mailgun.com/). You need to create a free acoount inorder to get your API key
+and SMTP credentials, that are required by this feature to be working. Replace the key values in ```backend/src/pizza``` with your own credentials.
